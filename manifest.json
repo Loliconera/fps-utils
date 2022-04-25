@@ -1,6 +1,6 @@
 {
     "files": {
-        "README.md": "54a4d33b4c0c69a7cc554305755ed051f400f26afa0ea210ad48e228f7580211",
+        "README.md": "f5c50ef82e8ba86477c3f97f92bf5e8b466b6742e84297b72d3f357f02ad26cb",
         "lib/data/abnormalities.json": "54727de2123584eb0ff38ffca5e86601e3faf05e8dc3379c9a0fd6e5ede1ca0c",
         "lib/data/miscData.json": "7d71d166aaa8bd39f40d9ddd8cbbccea6af7d8facae42b7d77046f2ea8cd143b",
         "lib/data/npcData.json": "bcd1876e4266f71299a298221b2594e45bf87f143f276a62c60dd8a35b75acd7",
@@ -8,7 +8,7 @@
         "lib/data/userSpawns.json": "e82a593b3e5aa970542d8330dfe690049abad98691e8b90210f46cdc281b17a3",
         "lib/index.js": "241c6b49685306cf2ca8718e36bcaa6cd82ea9e18fe63a8c8100281dbb42a504",
         "lib/setting_migration.js": "1821fbb5ed37672bd9a8daa54f8ab392e35aa6c38b1602c560865b3bf6a7c6a2",
-        "module.json": "599b44a2e6003b8de5cdcf010d2a781ea72d39626f20bf857cf88535b722f0e1",
+        "module.json": "56cb89c8463a7d2ade473664509c2fa94c6ee060a32d2dfe3cba72fe47ef3cba",
         "package.json": "05c87cd1ccd2c23ba209b7a58d7fe10c5ed04e52c6fbecac8c3b0f368eeb7742"
     },
     "defs": {

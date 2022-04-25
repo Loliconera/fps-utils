@@ -5,7 +5,7 @@
     "homepage": "https://github.com/Risenio/fps-utils/wiki",
     "supportUrl": "https://github.com/Risenio/fps-utils/issues",
     "readmePath": "./README.md",
-    "description": "Un script gratuito repleto de funciones dedicadas a mejorar tus fps.",
+    "description": "A free script filled with features dedicated to improve your fps.",
     "contributors": ["Saegusae","codeagon","SerenTera","Kyoukaya","SaltyMonkey","Leyki"],
     "conflicts": ["hide-players","fps-utils-lite","fps-manager"],
     "version": "19",
